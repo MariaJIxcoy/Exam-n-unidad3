@@ -1,0 +1,136 @@
+li{
+	color: #000;
+	cursor: pointer;
+	display: inline;
+	margin-left:20px;
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+ul{
+	background-color: #fff;
+	height: 100px;
+	list-style:none;
+}
+nav ul a{
+	text-decoration: none;
+}
+.boton{
+	border-color: #fff;
+	width: 150px;
+	height: 50px;
+	color: #413F42;
+	margin-top: 15px;
+	margin-left: 3px;
+	background-color: #fff;
+	font-weight: 600;
+}
+#colu{
+	height: 90vh;
+	background: no-repeat;
+	background-size: cover;
+}
+.shop{
+	font-size: 15px;
+	margin-left: 27px;
+	margin-top: 0px;
+	color: #ADADAD;
+	font-weight:500;
+}
+.letra{
+	margin-left: 5px;
+	margin-top: -18px;
+	font-size: 40px;
+	font-weight: 400;
+}
+
+#colt{
+	height: 9vh;
+	margin: 190px;
+	margin-top: 40px;
+	background: no-repeat;
+	background-size: cover;
+}
+.imgt img{
+	position: absolute;
+	top: 39%;
+	left: 1%;
+	width:500px;
+	height: 500px;
+	border-radius:20px;
+	border: 2px ridge #000;
+}
+.img4 img{
+	position: absolute;
+	top: 39%;
+	left: 50.7%;
+	width: 245px;
+	border-radius:10px;
+	height: 250px;
+	border: 2px ridge #000;
+
+}
+.img5 img{
+	position: absolute;
+	top: 79%;
+	left: 50.7%;
+	width: 245px;
+	border-radius:10px;
+	border: 2px ridge #000;
+	height: 250px;
+}
+.img6 img{
+	position: absolute;
+	top: 39%;
+	left: 75.6%;
+	border-radius:10px;
+	border: 2px ridge #000;
+	width: 245px;
+	height: 250px;
+}
+.img7 img{
+	position: absolute;
+	top: 79%;
+	left: 75.6%;
+	width: 245px;
+	height: 250px;
+	border-radius:10px;
+	border: 2px ridge #000;
+}
+.img8 img{
+	position: absolute;
+	top: 120%;
+	left: 1%;
+	width: 245px;
+	height: 250px;
+	border-radius:10px;
+	border: 2px ridge #000;
+}
+.img9 img{
+	position: absolute;
+	top: 120%;
+	left: 25.5%;
+	width: 245px;
+	height: 250px;
+	border-radius:10px;
+	border: 2px ridge #000;
+}
+.img10 img{
+	position: absolute;
+	top: 120%;
+	left: 50%;
+	width: 245px;
+	height: 250px;
+	border-radius:10px;
+	border: 2px ridge #000;
+}
+.img11 img{
+	position: absolute;
+	top: 120%;
+	left: 75.5%;
+	width: 245px;
+	height: 250px;
+	border-radius:10px;
+	border: 2px ridge #000;
+}
